@@ -71,9 +71,7 @@ Editable inputs (BLUE font):
 - LTP  
 - Desired Risk:Reward  
 - Order Type (Buy/Sell)  
-- Type of Trade  
-- Target  
-- Stop Loss  
+- Type of Trade 
 
 ⚠️ **Do NOT edit cells in black/green/orange — those contain formulas.**
 
@@ -142,7 +140,7 @@ This calculator bridges that gap and makes your trading realistic & professional
 ---
 
 ## 👤 Author
-**Naman Choudhary (LIGHTARK)**  
+**Naman Narendra Choudhary**  
 🔗 GitHub: https://github.com/LIGHTARK-2903  
 🔗 LinkedIn: https://linkedin.com/in/lightark  
 
