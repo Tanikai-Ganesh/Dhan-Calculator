@@ -143,12 +143,3 @@ This calculator bridges that gap and makes your trading realistic & professional
 **Naman Narendra Choudhary**  
 🔗 GitHub: https://github.com/LIGHTARK-2903  
 🔗 LinkedIn: https://linkedin.com/in/lightark  
-
----
-
-If you want, I can also create:
-- A **preview image** for the top of README  
-- A **GIF demo** of using the calculator  
-- A **button-style link** for “Download Excel File”
-
-Just say the word.
